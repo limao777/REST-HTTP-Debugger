@@ -1,0 +1,8 @@
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\web_request_test.Form1.resources
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\web_request_test.csproj.GenerateResource.Cache
+E:\vs_proj\web_request_test\web_request_test\bin\Debug\restful_http.exe
+E:\vs_proj\web_request_test\web_request_test\bin\Debug\restful_http.pdb
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\restful_http.Properties.Resources.resources
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\restful_http.exe
+E:\vs_proj\web_request_test\web_request_test\obj\Debug\restful_http.pdb
